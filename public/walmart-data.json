@@ -1,0 +1,62 @@
+[
+  {
+    "id": "WM-001092",
+    "product-name": "Bananas",
+    "rating": 4.6,
+    "price": 0.28
+  },
+  {
+    "id": "WM-048931",
+    "product-name": "Toilet Paper",
+    "rating": 4.7,
+    "price": 7.48
+  },
+  {
+    "id": "WM-018749",
+    "product-name": "Body Wash",
+    "rating": 4.7,
+    "price": 12.97
+  },
+  {
+    "id": "WM-043336",
+    "product-name": "Washcloth Set",
+    "rating": 4.7,
+    "price": 4.88
+  },
+  {
+    "id": "WM-020974",
+    "product-name": "Paper Plates",
+    "rating": 4.8,
+    "price": 6.28
+  },
+  {
+    "id": "WM-061294",
+    "product-name": "Whole Milk",
+    "rating": 4.6,
+    "price": 3.42
+  },
+  {
+    "id": "WM-017556",
+    "product-name": "Storage Bin",
+    "rating": 4.6,
+    "price": 10.94
+  },
+  {
+    "id": "WM-094820",
+    "product-name": "Laundry Detergent Pods",
+    "rating": 4.8,
+    "price": 21.44
+  },
+  {
+    "id": "WM-084123",
+    "product-name": "AirPods",
+    "rating": 4.7,
+    "price": 89.0
+  },
+  {
+    "id": "WM-046638",
+    "product-name": "Bird Seed",
+    "rating": 4.7,
+    "price": 9.84
+  }
+]

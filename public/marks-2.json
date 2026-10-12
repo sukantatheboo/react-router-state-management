@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "marks": {
+      "math": 88,
+      "physics": 82,
+      "chemistry": 79
+    }
+  },
+  {
+    "id": 2,
+    "name": "Fatima Rahman",
+    "marks": {
+      "math": 94,
+      "physics": 91,
+      "chemistry": 89
+    }
+  },
+  {
+    "id": 3,
+    "name": "Liam Carter",
+    "marks": {
+      "math": 67,
+      "physics": 72,
+      "chemistry": 65
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sofia Alvarez",
+    "marks": {
+      "math": 76,
+      "physics": 70,
+      "chemistry": 83
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rafiq Hossain",
+    "marks": {
+      "math": 59,
+      "physics": 64,
+      "chemistry": 61
+    }
+  },
+  {
+    "id": 6,
+    "name": "Emily Chen",
+    "marks": {
+      "math": 98,
+      "physics": 95,
+      "chemistry": 92
+    }
+  },
+  {
+    "id": 7,
+    "name": "Noah Williams",
+    "marks": {
+      "math": 81,
+      "physics": 77,
+      "chemistry": 74
+    }
+  },
+  {
+    "id": 8,
+    "name": "Ayesha Khan",
+    "marks": {
+      "math": 85,
+      "physics": 88,
+      "chemistry": 90
+    }
+  },
+  {
+    "id": 9,
+    "name": "Daniel Okafor",
+    "marks": {
+      "math": 72,
+      "physics": 68,
+      "chemistry": 70
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mei Tanaka",
+    "marks": {
+      "math": 91,
+      "physics": 86,
+      "chemistry": 84
+    }
+  }
+]
